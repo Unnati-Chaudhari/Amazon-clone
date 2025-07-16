@@ -278,4 +278,11 @@ ul a {
    padding-top: 5px;
 }
 
+/* media query for mobile (only size changes) */
+@media (max-width : 720px){
+   .card {
+     font-size: 16px;
+    width: 100%;
+   }
+}
 /* THANK YOU */
